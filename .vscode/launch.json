@@ -1,0 +1,92 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VariableDemo8",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo8",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo7",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo7",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Puppy",
+            "request": "launch",
+            "mainClass": "Puppy",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "Puppy1",
+            "request": "launch",
+            "mainClass": "Puppy1",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "LiteralDemo1",
+            "request": "launch",
+            "mainClass": "com.itheima.literal.LiteralDemo1",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.Variable",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo2",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo2",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo3",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo3",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo4",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo4",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo5",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo5",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo6",
+            "request": "launch",
+            "mainClass": "com.itheima.variable.VariableDemo6",
+            "projectName": "JAVA_5f57d7df",
+            "vmArgs": "-Dfile.encoding=GBK"
+        }
+    ]
+}
