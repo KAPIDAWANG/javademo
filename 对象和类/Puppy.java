@@ -33,6 +33,10 @@ public class Puppy {
      * - `Ctrl + Space` 代码提示补全
      * - `Ctrl + Shift + P` 命令面板（F1 也可以）
      */
+
+
+    // 按 `Ctrl + Shift + L`：自动选中文档里所有 `err`，出现多个光标
+
     /**
      * @param args
      */

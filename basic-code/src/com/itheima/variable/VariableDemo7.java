@@ -23,8 +23,8 @@ public class VariableDemo7 {
         System.out.println(num2);
 
         // 4.求和
-        int result = num1 + num2;
-        System.out.println(result);
+        int num = num1 + num2;
+        System.out.println(num);
 
 
     }

@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperatorDemo6",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo6",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "OperatorDemo5",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo5",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "OperatorDemo4",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo4",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "OperatorDemo3",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo3",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "OperatorDemo2",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo2",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
+            "name": "OperatorDemo1",
+            "request": "launch",
+            "mainClass": "com.itheima.operator.OperatorDemo1",
+            "projectName": "JAVA_5f57d7df"
+        },
+        {
+            "type": "java",
             "name": "VariableDemo8",
             "request": "launch",
             "mainClass": "com.itheima.variable.VariableDemo8",
